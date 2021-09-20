@@ -1,0 +1,67 @@
+body{background-color:WhiteSmoke;}
+/*body for write content*/
+.cardBody {
+    margin-top:12mm;
+    margin-left:10mm;
+    background-color:white;
+    margin-right:5mm;
+    padding:20px;
+    height:150mm;
+    margin-bottom:0.5mm;}
+/*main heading section*/
+.cardHead {
+    text-align:center;
+    font-size:25px;}
+
+
+
+/* alert box css begin*/
+ .alert {
+  padding: 20px;
+  background-color: gray; /* Red */
+  
+  color: white;
+white;
+white;
+  position:sticky;/* Safari */ position: -webkit-sticky;
+  top:0;
+ }
+ /* The close button */
+ 
+ .closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+ }
+ /* When moving the mouse over the close button */
+ 
+ .closebtn:hover {
+  color: black;}
+/*alert box end*/
+
+/*design crew beginning*/
+.violet{color:BlueViolet;}
+.mid{text-align: center;}
+
+/*navigation bar*/
+.nav{
+    overflow:hidden;
+    background-color:#333;
+}
+.nav a{
+    float:left;
+    display:block;
+    color:white;
+    padding:14px 16px;
+    text-align:center;
+    text-decoration:none;
+}
+.nav a:hover {
+    color:#333;
+    background-color:lightgray;
+}
