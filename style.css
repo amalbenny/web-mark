@@ -18,11 +18,8 @@ body{background-color:WhiteSmoke;}
 /* alert box css begin*/
  .alert {
   padding: 20px;
-  background-color: gray; /* Red */
-  
+  background-color: gray;
   color: white;
-white;
-white;
   position:sticky;/* Safari */ position: -webkit-sticky;
   top:0;
  }
