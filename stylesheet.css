@@ -1,0 +1,151 @@
+/*white board body for write content*/
+.wm .cardBody {
+    margin-top:12mm;
+    margin-left:10mm;
+    background-color:white;
+    margin-right:5mm;
+    padding:20px;
+    min-height:5cm;
+    max-height:100%;
+    margin-bottom:1mm;
+    box-sizing: border-box;
+}
+/*main heading section*/
+.wm .cardHead {
+    text-align:center;
+    font-size:25px;}
+
+/* The alert message box */
+.wm .alert {
+  padding: 20px;
+  background-color: white;
+  margin-bottom: 15px;
+  bottom:0px;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  width:auto;box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.wm .alert:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+/* The close button */
+.wm .closebtn {
+  margin-left: 15px;
+  color: black;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.wm .closebtn:hover {
+  color: red;
+}
+
+
+
+/*design crew beginning*/
+
+
+/* Create three equal columns that float next to each other */
+.wm .tricolumn {
+  float: left;
+  width: 33.33%;
+}
+/* Clear floats after the columns */
+.wm .row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+/* The side navigation menu */
+.wm nav {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: gray;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+/* navigation links */
+.wm nav a {
+  display: block;
+  color: white;
+  padding: 16px;
+  text-decoration: none;
+}
+.wm nav .logo{padding:0;}
+
+/* Active/current link */
+.wm nav a.active {
+  background-color: lightgray;
+  color: Black;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Links on mouse-over */
+.wm nav a:hover:not(.active) {
+  background-color: lightgray;
+  color: Black;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+.wm div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+.wm .hoverme .additionalinfo{
+      visibility: hidden;
+      width:auto;
+      padding:5px;
+      text-align: center;
+      box-shadow:0 4px 8px 0 rgba(0,0,0,0.2); }
+.wm .hoverme:hover .additionalinfo{
+    visibility:visible;
+}
+.wm footer{
+  padding:10px;
+  color:white;
+  background-color:#f1f1f1;
+  width:100%;
+  text-align:center;
+}
+.wm footer a{
+  text-decoration: underline overline;
+}
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other on smaller screens (700px wide or less) */
+/* On screens that are less than 700px wide, make the sidebar into a topbar */
+@media screen and (max-width: 700px) {
+  .wm nav {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .wm nav a {float: left;}
+  div.content {margin-left:0;}
+  .wm .tricolumn {
+    width: 100%;
+  }
+}
+
+/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+@media screen and (max-width: 300px) {
+  .wm nav a {
+    text-align: center;
+    float: none;
+  }
+}
+  
