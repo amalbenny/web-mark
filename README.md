@@ -11,4 +11,5 @@ It is a project to brake restrictions of accessibility when surf over different 
 - Compatibility
 - Non-stop Resources
 - Remove barriers and capabilities' limitations 
-## [Stylesheet](https://amalbenny.github.io/web-mark/stylesheet.css)
+<hr/>
+ <a href="https://github.com/amalbenny/web-mark">Stylesheet</a>
