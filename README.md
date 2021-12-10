@@ -1,4 +1,5 @@
 # Welcome to the web-mark world!
+## <a href="https://github.com/amalbenny/wiki">web-mark wiki</a>
 Here you can discuss anything about this project.
 
 ## What is web-mark
