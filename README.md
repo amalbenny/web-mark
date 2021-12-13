@@ -10,7 +10,7 @@ It is a project to brake restrictions of accessibility when surf over different 
 ## Aim
 - Speed
 - Compatibility
-- Non-stop Resources
-- Remove barriers and capabilities' limitations 
+- Non-stop Resources collections
+- Remove barriers and capabilities' limitations on switching time and place
 <hr/>
  <a href="https://github.com/amalbenny/web-mark/blob/main/stylesheet.css">Stylesheet</a>
