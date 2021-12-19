@@ -6,6 +6,7 @@ wm .cardBody {
     margin-right:5mm;
     padding:20px;
     min-height:5cm;
+    border-radius:10px;
     margin-bottom:1mm;
     box-sizing: border-box;
 }
@@ -141,4 +142,3 @@ wm .hoverme:hover .additionalinfo{
     float: none;
   }
 }
-  
