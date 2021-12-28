@@ -12,6 +12,8 @@ It is a project to brake restrictions of accessibility when surf over different 
 - Compatibility
 - Non-stop Resources collections
 - Remove barriers and capabilities' limitations on switching time and place
+
 ## <a href="https://github.com/amalbenny/web-mark/blob/main/stylesheet.css">Stylesheet raw</a>
+Raw file of styles.css
 ## <a href="accessoires/">Accessories</a>
 Accessoires helps to learn and explore with Web-Mark. They are training materials for newcomers
