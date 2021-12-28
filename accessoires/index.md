@@ -1,11 +1,3 @@
-<!--accessories-->
-<!DOCTYPE html>
-<html>
-<head><meta name="viewport" content="width=device-width,maximum-scale=1">
- 
-<title>WM accessoires</title>
-</head>
-<body>
 <h1>Web-Mark Framework Accessoires</h1>
 Following listing helps you to find examples for using WM in your website
 <ul>
@@ -13,5 +5,3 @@ Following listing helps you to find examples for using WM in your website
 </li>
 
 </ul>
-</body>
-</html>
