@@ -1,6 +1,4 @@
 # Welcome to the web-mark world!
-## <a href="https://github.com/amalbenny/web-mark/wiki">web-mark wiki</a>
-Here you can discuss anything about this project.
 
 ## What is web-mark
 It is a project to brake restrictions of accessibility when surf over different devices.
@@ -13,6 +11,9 @@ It is a project to brake restrictions of accessibility when surf over different 
 - Non-stop Resources collections
 - Remove barriers and capabilities' limitations on switching time and place
 <hr/>
+
+## <a href="https://github.com/amalbenny/web-mark/wiki">Web-mark wiki</a>
+Here you can discuss anything about this project.
 
 ## <a href="https://github.com/amalbenny/web-mark/blob/main/stylesheet.css">Stylesheet raw</a>
 Raw file of styles.css
