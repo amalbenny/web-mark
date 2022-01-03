@@ -9,7 +9,7 @@ It is a project to brake restrictions of accessibility when surf over different 
 - Speed
 - Compatibility
 - Non-stop Resources collections
-- Remove barriers and capabilities' limitations on switching time and place
+- Remove barriers and capabilities to changing time and space
 <hr/>
 
 ## <a href="https://github.com/amalbenny/web-mark/wiki">Web-mark wiki</a>
