@@ -1,4 +1,4 @@
-# Welcome to <code style="font-size:20px;">```web-mark beta production page```</code>
+# Welcome to ```web-mark beta production page```
 
 ## What is web-mark
 It is a project to brake restrictions of accessibility when surf over different devices.
