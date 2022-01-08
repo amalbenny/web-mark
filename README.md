@@ -19,3 +19,8 @@ Here you can discuss anything about this project.
 Raw file of styles.css
 ## <a href="accessoires/">Accessories</a>
 Accessoires helps to learn and explore with Web-Mark. They are training materials for newcomers
+## Activate web-mark
+If you would like to add WebMark framework styling in your website projects just copy and paste code given below inside head tag
+```markdown
+<link rel="stylesheet" type="text/css" href="https://amalbenny.mooo.com/wm/beta.css">
+```
