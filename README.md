@@ -1,4 +1,4 @@
-<h1 style="background-color:lightgray;"> Welcome to web-mark beta production page</h1>
+<h1 style="background-color:lightgray; padding:20px;"> Welcome to web-mark beta production page</h1>
 
 ## What is web-mark
 It is a project to brake restrictions of accessibility when surf over different devices.
