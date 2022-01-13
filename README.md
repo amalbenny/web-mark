@@ -27,4 +27,4 @@ Accessories helps to learn and explore with Web-Mark. They will help as training
 Here you can discuss anything about this project.
 
 ## <a href="https://github.com/amalbenny/web-mark/blob/main/stylesheet.css">Stylesheet raw</a>
-Raw file of styles.css
+Raw file of planning of styles.css
