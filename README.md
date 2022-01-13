@@ -18,8 +18,8 @@ If you would like to add WebMark framework styling in your website projects just
 <link rel="stylesheet" type="text/css" href="https://amalbenny.mooo.com/wm/beta.css">
 ```
 
-## <a href="accessoires/">Accessories</a>
-Accessoires helps to learn and explore with Web-Mark. They are training materials for newcomers
+## <a href="accessories/">Accessories</a>
+Accessories helps to learn and explore with Web-Mark. They will help as training materials for newcomers to web-mark.
 
 
 
