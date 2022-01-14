@@ -47,7 +47,9 @@ wm .closebtn:hover {
   color: red;
 }
 
-
+wm .copyboard{
+  user-select:all;
+}
 
 /*design crew beginning*/
 
