@@ -47,15 +47,6 @@ wm .closebtn:hover {
   color: red;
 }
 
-wm .copyboard{
-  -webkit-touch-callout:all; /* iOS Safari */
-  -webkit-user-select:all;   /* Chrome/Safari/Opera */
-  -khtml-user-select:all;    /* Konqueror */
-  -moz-user-select:all;      /* Firefox */
-  -ms-user-select:all;       /* Internet Explorer/Edge */
-  user-select:all;           /* Non-prefixed version */
-}
-
 /*design crew beginning*/
 
 
