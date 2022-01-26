@@ -15,7 +15,7 @@ It is a project to brake restrictions of accessibility when surf over different 
 ## Activate web-mark
 If you would like to add WebMark framework styling in your website projects just copy and paste code given below inside head tag. Then read examples given in accessories page. 
 ```markdown
-<link rel="stylesheet" type="text/css" href="https://amalbenny.mooo.com/wm/beta.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/amalbenny/amalbenny@v0.2.0-alpha/wm/beta.css">
 ```
 
 ## <a href="accessories/">Accessories</a>
