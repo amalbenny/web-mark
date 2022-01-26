@@ -1,4 +1,5 @@
 <h1 style="text-decoration: underline overline;"> Welcome to web-mark beta production page</h1>
+<link rel="stylesheet" type="text/css" href="https://amalbenny.mooo.com/wm/beta.css">
 
 ### For the latest stable version kindly please visit <a href="https://amalbenny.mooo.com/wm">https://amalbenny.mooo.com/wm</a>
 
@@ -6,6 +7,7 @@
 It is a project to brake restrictions of accessibility when surf over different devices.
  It will do the best for everyone, everything, everywhere, without worrying about limitations.
  Because it will taken as a choice by the project.
+<wm><span class="alert">Rolled out new Alpha 2.0 version, come on check it out</span></wm>
 
 ## Aim
 - Speed
