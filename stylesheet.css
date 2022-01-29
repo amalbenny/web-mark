@@ -1,10 +1,9 @@
 /*white board body for write important content*/
 wm .cardBody {
     margin-top:12mm;
-    margin-left:2mm;
     background-color:white;
     margin-right:5mm;
-    padding:20px;
+    padding:15px;
     min-height:5cm;
     border-radius:10px;
     margin-bottom:1mm;
