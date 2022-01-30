@@ -1,6 +1,4 @@
 <link rel="stylesheet" type="text/css" href="https://iamal.mooo.com/web-mark/stylesheet.css">
-<wm><nav><a href="//iamal.mooo.com"><img src="/res/home.png" height="25px" /></a><a style="color:black;"> Ideal framework for WebMark project</a></nav></wm>
-
 
 <h1 style="text-decoration: underline overline;"> Welcome to web-mark beta production page</h1>
 
@@ -44,3 +42,6 @@ Here you can discuss anything about this project.
 
 ## <a href="https://github.com/amalbenny/web-mark/blob/main/stylesheet.css">Stylesheet raw</a>
 Raw file of planning of styles.css
+<aside>
+<wm><nav><a href="//iamal.mooo.com"><img src="/res/home.png" height="25px" /></a><a style="color:black;"> Ideal framework for WebMark project</a></nav></wm>
+</aside>
