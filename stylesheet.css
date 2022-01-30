@@ -2,7 +2,7 @@
 wm .cardBody {
     margin-top:12mm;
     background-color:white;
-    margin-right:5mm;
+    margin-right:2mm;
     padding:15px;
     min-height:5cm;
     border-radius:10px;
@@ -12,7 +12,8 @@ wm .cardBody {
 /*main heading section*/
 wm .cardHead {
     text-align:center;
-    font-size:25px;}
+    font-size:25px;
+}
 
 /* The alert message box */
 wm .alert {
