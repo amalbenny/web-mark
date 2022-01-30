@@ -1,5 +1,8 @@
+<link rel="stylesheet" type="text/css" href="https://iamal.mooo.com/web-mark/stylesheet.css">
+<wm><nav><a href="//iamal.mooo.com"><img src="/res/home.png" height="25px" /></a><a style="color:black;"> Ideal framework for WebMark project</a></nav></wm>
+
+
 <h1 style="text-decoration: underline overline;"> Welcome to web-mark beta production page</h1>
-<link rel="stylesheet" type="text/css" href="https://amalbenny.mooo.com/wm/beta.css">
 
 ### For the latest stable version kindly please visit <a href="https://amalbenny.mooo.com/wm">https://amalbenny.mooo.com/wm</a>
 
