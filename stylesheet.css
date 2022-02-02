@@ -93,21 +93,43 @@ wm div.content {
   height: 1000px;
 }
 
-wm tooltip {
-	display:none;
-	border-radius:5px;
-	padding:5px;
-	z-index:2;
-	width:240px;
-	margin:5px 25px;
-}
-wm .hoverme:hover tooltip{
-	display:block;
-	border:inset;
-	width:auto;
-	padding:5px;
-	text-align: center;
-}
+   wm .hoverme {
+    	position: relative;
+    	display: inline-block;
+    	}
+    	
+   wm .hoverme .tooltip {
+    	visibility: hidden;
+    	width: 140px;
+    	background-color: #555;
+    	color: #fff;
+    	text-align: center;
+    	border-radius: 6px;
+    	padding: 5px;
+    	position: absolute;
+    	z-index: 2;
+    	bottom: 150%;
+    	left: 50%;
+    	margin-left: -75px;
+    	opacity: 0;
+    	transition: opacity 0.3s;
+    	}
+    	
+   wm .hoverme .tooltip::after {
+    	content: "";
+    	position: absolute;
+    	top: 100%;
+    	left: 50%;
+    	margin-left: -5px;
+    	border-width: 5px;
+    	border-style: solid;
+    	border-color: #555 transparent transparent transparent;
+    	}
+    	
+   wm .hoverme:hover .tooltip {
+    	visibility: visible;
+    	opacity: 1;
+    	}
 wm .hoverme .additionalinfo{
       visibility: hidden;
       width:auto;
