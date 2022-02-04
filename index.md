@@ -21,6 +21,25 @@ It is a project to brake restrictions of accessibility when surf over different 
 If you would like to add WebMark framework styling in your website projects just copy and paste code given below inside head tag. Then read examples given in accessories page. 
 
 <wm>
+<style>
+  button {
+  border-radius:6px;
+  background-color:#3c7bca;
+  color:white;
+  color: white;
+  padding: 16px 32px;
+  padding: 5px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  margin: 2px 1px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border: none;
+}
+</style>
 <input type="text" value="&lt;link rel&equals;&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://amalbenny.mooo.com/wm/beta.css&quot;&gt;" id="myInput" disabled>
 <script src="https://amalbenny.mooo.com/js/load.js" ></script>
 
