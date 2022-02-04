@@ -1,5 +1,42 @@
 <link rel="stylesheet" type="text/css" href="https://iamal.mooo.com/web-mark/stylesheet.css">
+<style>
+.hoverme {
+  position: relative;
+  display: inline-block;
+}
 
+.hoverme .tooltip {
+  visibility: hidden;
+  width: 140px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 150%;
+  left: 50%;
+  margin-left: -75px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.hoverme .tooltip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.hoverme:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+}</style>
 <h1 style="text-decoration: underline overline;"> Welcome to web-mark beta production page</h1>
 
 ### For the latest stable version kindly please visit <a href="https://amalbenny.mooo.com/wm">https://amalbenny.mooo.com/wm</a>
