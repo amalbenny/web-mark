@@ -23,5 +23,6 @@
   &lt;/button&gt;
 &lt;/div&gt;
             &lt;/wm&gt;
-             </div>
+             </div><br/><br/>
+<div>Supported Version: 0.2.2</div>
    </wm>
