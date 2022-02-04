@@ -21,16 +21,38 @@ It is a project to brake restrictions of accessibility when surf over different 
 ## Activate web-mark
 If you would like to add WebMark framework styling in your website projects just copy and paste code given below inside head tag. Then read examples given in accessories page. 
 
-<div onclick="copyMyinp();"  style="user-select:all;" class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;link</span> <span class="na">rel&equals;</span><span class="s">"stylesheet"</span> <span class="na">type&equals;</span><span class="s">"text/css"</span> <span class="na">href&equals;</span><span class="s">"https://amalbenny.mooo.com/wm/beta.css"</span><span class="nt">&gt;</span>
-</code></pre></div></div>
-<script type="text/javascript">
 
-function copyMyinp(){	
-	document.execCommand("copy");
+<input type="text" value="&lt;link rel&equals;&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://amalbenny.mooo.com/wm/beta.css&quot;&gt;" id="myInput" disabled>
+<script src="https://amalbenny.mooo.com/js/load.js" ></script>
+
+<div class="hoverme">
+<button onclick="copyboard();" onmouseout="outFunc()">
+  <span class="tooltip" id="myTooltip">Copy to clipboard</span>
+  Copy text
+  </button>
+</div>
+
+<script>function copyboard() {
+  /* Get the text field */
+  var copyText = document.getElementById("myInput");
+
+  /* Select the text field */
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+   /* Copy the text inside the text field */
+  navigator.clipboard.writeText(copyText.value);
+
+  var tooltip = document.getElementById("myTooltip");
+  tooltip.innerHTML = "Copied: " + copyText.value;
+  
+  }
+
+function outFunc() {
+  var tooltip = document.getElementById("myTooltip");
+  tooltip.innerHTML = "Copy to clipboard";
 }
-
 </script>
-
 
 ## <a href="accessories/">Accessories</a>
 Accessories helps to learn and explore with Web-Mark. They will help as training materials for newcomers to web-mark.
