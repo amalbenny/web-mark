@@ -26,6 +26,7 @@ wm .alert {
   position: sticky;
   width:auto;box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
+  border-radius: 8px;
 }
 wm .alert:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
@@ -102,49 +103,49 @@ wm div.content {
   height: 1000px;
 }
 
-   wm .hoverme {
-    	position: relative;
-    	display: inline-block;
-    	}
+wm .hoverme {
+   position: relative;
+   display: inline-block;
+    }
     	
-   wm .hoverme .tooltip {
-    	display:none;
-    	width: 140px;
-    	background-color: #555;
-    	color: #fff;
-    	text-align: center;
-    	border-radius: 6px;
-    	padding: 5px;
-    	position: absolute;
-    	z-index: 2;
-    	bottom: 150%;
-    	left: 50%;
-    	margin-left: -75px;
-    	opacity: 0;
-    	transition: opacity 0.3s;
-    	}
+wm .hoverme .tooltip {
+    display:none;
+    width: 140px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 2;
+    bottom: 150%;
+    left: 50%;
+    margin-left: -75px;
+    opacity: 0;
+    transition: opacity 0.3s;
+   }
     	
-   wm .hoverme .tooltip::after {
-    	content: "";
-    	position: absolute;
-    	top: 100%;
-    	left: 50%;
-    	margin-left: -5px;
-    	border-width: 5px;
-    	border-style: solid;
-    	border-color: #555 transparent transparent transparent;
-    	}
+wm .hoverme .tooltip::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
     	
-   wm .hoverme:hover .tooltip {
-    	display: inline-block;
-    	opacity: 1;
-    	}
+wm .hoverme:hover .tooltip {
+    display: inline-block;
+    opacity: 1;
+   }
 wm .hoverme .additionalinfo{
-      visibility: hidden;
-      width:auto;
-      padding:5px;
-      text-align: center;
-      box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);
+    visibility: hidden;
+    width:auto;
+    padding:5px;
+    text-align: center;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);
 }
 wm .hoverme:hover .additionalinfo{
     visibility:visible;
