@@ -7,7 +7,7 @@ css example
   alert box model
 </div><br>
 Source Code:<section class="cardBody"  style="background-color:whitesmoke;padding:10px;">
-&lt;wm&gt;&lt;div class="alert"&gt;</p>
+<p style="border-radius:10px;background-color:lightgray;padding:3px;">&lt;wm&gt;&lt;div class="alert"&gt;</p>
 <span style="opacity:15%;">&lt;!--optional close button--&gt;<br></span>
 <p>&nbsp; &lt;span class="closebtn" onclick="this.parentElement.style.display='none';"&gt;
 &amp;times;&lt;/span&gt;</p>
