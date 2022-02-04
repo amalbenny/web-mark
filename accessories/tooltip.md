@@ -5,7 +5,6 @@
 
 <input type="text" value="&gt; Hi, Nice to meet You &hyphen; example text" id="myInput" disabled>
 <script src="https://amalbenny.mooo.com/js/load.js" ></script>
-<link 
 
 <div class="hoverme">
 <button onclick="copyboard();" onmouseout="outFunc()">
