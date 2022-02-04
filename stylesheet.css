@@ -108,7 +108,7 @@ wm div.content {
     	}
     	
    wm .hoverme .tooltip {
-    	visibility: hidden;
+    	display:none;
     	width: 140px;
     	background-color: #555;
     	color: #fff;
@@ -136,7 +136,7 @@ wm div.content {
     	}
     	
    wm .hoverme:hover .tooltip {
-    	visibility: visible;
+    	display: inline-block;
     	opacity: 1;
     	}
 wm .hoverme .additionalinfo{
