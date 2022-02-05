@@ -8,7 +8,7 @@ It is a project to brake restrictions of accessibility when surf over different 
  It will do the best for everyone, everything, everywhere, without worrying about limitations.
  Because it will taken as a choice by the project.
 
-<wm><div class="alert">🎉 ✨ <a href="//amalbenny.mooo.com/wm/#latest"> Rolled out new Alpha 2.1 version, come on check it out  &gt;</a>✨ </div></wm>
+<wm><div class="alert">🎉 ✨ <a href="//amalbenny.mooo.com/wm/#latest"> Rolled out new Alpha 2.2 version, come on check it out  &gt;</a>✨ </div></wm>
 
 ## Aim
 - Speed
