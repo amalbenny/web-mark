@@ -40,7 +40,7 @@ If you would like to add WebMark framework styling in your website projects just
   border: none;
 }
 </style>
-<input type="text" value="&lt;link rel&equals;&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://amalbenny.mooo.com/wm/beta.css&quot;&gt;" id="myInput" disabled>
+<input type="text" value="&lt;link rel&equals;&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://amalbenny.mooo.com/wm/style.css&quot;&gt;" id="myInput" disabled>
 <script src="https://amalbenny.mooo.com/js/load.js" ></script>
 
 <div class="hoverme">
