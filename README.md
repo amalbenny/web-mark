@@ -1,6 +1,5 @@
-<h1 style="text-decoration: underline overline;"> Welcome to web-mark beta production page</h1>
+<h1 style="text-decoration: underline overline;"> Welcome to web-mark production page</h1>
 
-### For more details please visit <a href="https://amalbenny.mooo.com/wm">https://amalbenny.mooo.com/wm</a>
 ## What is web-mark
 It is a project to brake restrictions of accessibility when surf over different devices.
  It will do the best for everyone, everything, everywhere, without worrying about limitations.
