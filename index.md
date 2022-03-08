@@ -1,3 +1,9 @@
+---
+layout: default
+comments: true
+# other options
+---
+
 <link rel="stylesheet" type="text/css" href="https://iamal.mooo.com/web-mark/stylesheet.css">
 <h1 style="text-decoration: underline overline;"> Welcome to web-mark beta production page</h1>
 
